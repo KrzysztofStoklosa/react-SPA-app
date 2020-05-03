@@ -1,0 +1,13 @@
+.productsList ul {
+  list-style: square;
+  padding-left: 20px;
+}
+.productsList li {
+  margin: 10px 0;
+  padding-left: 20px;
+}
+.productsList a {
+  margin: 10px 0;
+  text-decoration: none;
+  color: black;
+}

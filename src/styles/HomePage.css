@@ -1,0 +1,14 @@
+.home h1 {
+  text-align: center;
+  margin: 10px 0;
+  padding: 10px;
+}
+
+.home article span {
+  font-size: 12px;
+  padding: 10px;
+}
+.home article p {
+  margin-bottom: 40px;
+  padding: 10px;
+}
